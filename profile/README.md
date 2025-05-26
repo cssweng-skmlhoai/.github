@@ -31,5 +31,5 @@ Kabuhayan DB is a simple, yet modernly inclusive database management system. It 
 - **Backend Developer**: Richard Jeremy S. Limtin
 - **Frontend Developer**: Rainier A. Dulatre
 - **Frontend Quality Assurance**: Ramon John L. Dela Cruz
-- **Backend Quality Assurance**: Darwin A. Luu
+- **Backend Quality Assurance**: Darwin A. Lii
 
